@@ -1,0 +1,23 @@
+.main-content {
+  display: flex;
+  flex-direction: row;
+}
+
+.content2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#app {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.content2 {
+  margin-left: 200px;
+}
+
+#restart-game {
+  visibility: hidden;
+}
